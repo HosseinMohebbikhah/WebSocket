@@ -9,4 +9,4 @@ In this program, it works as text data transfer and more methods will be added t
 
 Gallery :
 
-![image](https://github.com/HosseinMohebbikhah/iMap/blob/main/assets/imgs/readme.png)
+![image]()
