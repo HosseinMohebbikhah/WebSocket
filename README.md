@@ -1,4 +1,4 @@
-# WebSocket
+# miniLocalMessenger
 
 This is a mini messenger by WebSocket
 
